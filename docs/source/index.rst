@@ -27,10 +27,7 @@
   * `Сайт для менеджеров <https://kloopmedia.github.io/gigaturnip-frontend/#/>`_
   * `Сайт для админов <https://journal-bb5e3.uc.r.appspot.com/admin/>`_
 
-Table Of Contents
+Содержание
 -------------------
-
-.. toctree::
-    :maxdepth: 2
 
     Как создать кампанию в Репке.rst
