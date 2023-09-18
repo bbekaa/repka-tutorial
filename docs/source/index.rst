@@ -33,6 +33,4 @@ Table Of Contents
 .. toctree::
     :maxdepth: 2
 
-    Как создать кампанию в Репке.rst
-    Основные элементы.rst
-    Модификаторы.rst
+    intro.rst
