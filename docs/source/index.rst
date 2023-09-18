@@ -33,4 +33,4 @@ Table Of Contents
 .. toctree::
     :maxdepth: 2
 
-    docs/source/Как создать кампанию в Репке.rst
+    Как создать кампанию в Репке.rst
