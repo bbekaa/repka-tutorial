@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Репка'
+copyright = '2023, Kloop Media Foundation'
+author = 'Bekmyrza Isakov'
 
 release = '0.1'
 version = '0.1.0'
