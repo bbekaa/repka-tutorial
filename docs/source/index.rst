@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Как создать свою кампанию в Репке?
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
