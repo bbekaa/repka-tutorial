@@ -1,10 +1,7 @@
-Как создать свою кампанию в Репке?
+Добро пожаловать в документацию Репки
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Репка** – это платформа разработанная для создания кампаний для онлайн взаимодействия большого количества людей. На Репке можно воплотить учебные программы как Okutool, миссии по наблюдению за выборами и даже приемную для вашей работы.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
