@@ -1,19 +1,38 @@
-Добро пожаловать в документацию Репки
+
+
+Документация Репки
 ===================================
 
-**Репка** – это платформа разработанная для создания кампаний для онлайн взаимодействия большого количества людей. На Репке можно воплотить учебные программы как Okutool, миссии по наблюдению за выборами и даже приемную для вашей работы.
+Репка – это платформа разработанная для создания кампаний для онлайн взаимодействия большого количества людей.  Например:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+    * Обучать чему-то как `Okutool <https://kloopmedia.github.io/FlutterTurnip/#/campaign/7?join=true>`_
 
-.. note::
+    * Мониторить за выборами
 
-   This project is under active development.
+    * Сделать себе приемную
 
-Contents
---------
+    * И все, что придет вам в ум
+
+Давайте посмотрим кампанию в Репке в действии
+-------------------------
+
+Это `видео <https://youtu.be/lxhBNOE7GVs>`_ покажет вам как выглядит готовая кампания, созданная в Репке. Это видео нужно записать и заменить ссылку.
+
+
+Нужные ссылки
+------------------
+
+  * `Приложение для Андроида <https://play.google.com/store/apps/details?id=io.kloop.gigaturnip>`_
+  * `Веб-приложение <https://kloopmedia.github.io/FlutterTurnip/#/>`_
+  * `Сайт для менеджеров <https://kloopmedia.github.io/gigaturnip-frontend/#/>`_
+  * `Сайт для админов <https://journal-bb5e3.uc.r.appspot.com/admin/>`_
+
+Table Of Contents
+-------------------
 
 .. toctree::
+    :maxdepth: 2
 
-   usage
-   api
+    Как создать кампанию в Репке.rst
+    Основные элементы.rst
+    Модификаторы.rst
